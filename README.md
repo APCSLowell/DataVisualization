@@ -11,6 +11,7 @@ Suggested steps to complete this assignment
    - Changing opacity so frequently occuring values are brighter 
    - Changing size so frequently occuring values are larger
    - Creating a bar graph
+   - Creating an interactive map
    - Creating a color grid
    - Using a [Chernoff face](https://en.wikipedia.org/wiki/Chernoff_face)
    - Visiting the [Data Visualisation Catalogue](https://datavizcatalogue.com/) for examples of other types of visualizations
