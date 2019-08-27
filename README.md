@@ -1,5 +1,8 @@
 # Make a Data Visualization
-In this assignment you will create a picture that will help in understanding an array of data. You may find  the TBD slides helpful in this assignment.
+In this assignment you will create a picture that will help in understanding an array of data. You may find slides TBD of the TBD presentation helpful. Your program should use a variety of the [Processing graphics functions](https://processing.org/reference/). You will also define two functions:  
+`public void setup()`  
+`public void draw()`  
+Scroll down to see links to samples of other students submissions for this assignment. Have fun and be creative! Your data visualization  doesn't have to look like anyone else's.
 
 Suggested steps to complete this assignment
 -------------------------------------------
@@ -16,6 +19,14 @@ Suggested steps to complete this assignment
    - Using a [Chernoff face](https://en.wikipedia.org/wiki/Chernoff_face)
    - Visiting the [Data Visualisation Catalogue](https://datavizcatalogue.com/) for examples of other types of visualizations
    - Create your own visualization, your visualization doesn't have to look like any other. Have fun and be creative!
+   
+2. Fork and Clone down this repository, just like you did for the [Sample Assignment](https://github.com/APCSLowell/SampleAssignment)
+3. Start the Sublime program and choose *File | Open Folder* then browse to and open the `OriginalDesign` folder.
+4. Modify `index.html` to personalize the title, headline and footer and save your changes by choosing *File | Save*
+5. Replace the Java code in the `OriginalDesign.pde` file with the code for your own design. Run your program in Sublime by choosing *Tools | Build*
+6. `add`, `commit` and `push` your work to GitHub just like you did for the [Sample Assignment](https://github.com/APCSLowell/SampleAssignment)
+7. Publish your website by choosing *master branch | save* in the *GitHub Pages* section of *Settings*. This will create a URL "link" to your website
+8. Submit your URL link to google classroom
 
 Samples of Student Work
 -----------------------
