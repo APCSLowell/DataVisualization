@@ -8,9 +8,11 @@ Suggested steps to complete this assignment
 -------------------------------------------
 1. For this assignment you are welcome to collaborate with a partner. You can both work on the same visualization, or you can share a data set and each create a different visualization.   
 
+2. Fork and Clone down this repository, just like you did for the [Sample Assignment](https://github.com/APCSLowell/SampleAssignment)
+
 1. To start, you will need some data. You can use data you find on the Internet or create your own. You should then put your data into an array.
 
-2. Once you've collected data, you can start coding. Some ideas for visualizations include:
+2. Once you've collected data, you can start coding. Start Processing (or the Sublime program) and choose *File | Open Folder* then browse to and open the `DataVisualization` folder. Some ideas for visualizations include:
    - Changing opacity so frequently occuring values are brighter 
    - Changing size so frequently occuring values are larger
    - Creating a bar graph
@@ -20,8 +22,8 @@ Suggested steps to complete this assignment
    - Visiting the [Data Visualisation Catalogue](https://datavizcatalogue.com/) for examples of other types of visualizations
    - Create your own visualization, your visualization doesn't have to look like any other. Have fun and be creative!
    
-2. Fork and Clone down this repository, just like you did for the [Sample Assignment](https://github.com/APCSLowell/SampleAssignment)
-3. Start the Sublime program and choose *File | Open Folder* then browse to and open the `OriginalDesign` folder.
+
+
 4. Modify `index.html` to personalize the title, headline and footer and save your changes by choosing *File | Save*
 5. Replace the Java code in the `OriginalDesign.pde` file with the code for your own design. Run your program in Sublime by choosing *Tools | Build*
 6. `add`, `commit` and `push` your work to GitHub just like you did for the [Sample Assignment](https://github.com/APCSLowell/SampleAssignment)
