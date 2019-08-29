@@ -1,7 +1,7 @@
 # Make a Data Visualization
-In this assignment you will create a picture that will help in understanding an array of data. You may find slides TBD of the TBD presentation helpful. Your program should use a variety of the [Processing graphics functions](https://processing.org/reference/). You will also define two functions:  
-`public void setup()`  
-`public void draw()`  
+In this assignment you will create a picture that will help in understanding an array of data. You may find [apjavaProcessing slide presentation](https://docs.google.com/presentation/d/1sqbareaFmF9fMcp0XOl3hRO6hAlrU5WIaj4V-Kd3eDI/edit?usp=sharing) helpful. Your program should use a variety of the [Processing graphics functions](https://processing.org/reference/). You will also define two functions:  
+`void setup()`  
+`void draw()`  
 Scroll down to see screenshots of other students submissions for this assignment. Have fun and be creative! Your data visualization  doesn't have to look like anyone else's.
 
 Suggested steps to complete this assignment
