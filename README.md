@@ -25,7 +25,7 @@ Suggested steps to complete this assignment
 4. Save your work each day by choosing *File | Save*. The first time you save your program, you'll be prompted to give it a name.
 Choose a meaningful name like `DataVisualization`.
 5. When you come back the next day, one way to find your program is to choose *File | Open Recent*.  The code is stored in a folder in the `Processing` folder in your `My Documents` folder. 
-6. When you are done, submit your code in Google classroom by browsing to your `DataVisualization.pde` file. The path should be `My Documents | Processing | DavaVisualization`.
+6. When you are done, submit your code in Google classroom by browsing to your `DataVisualization.pde` file. The path should be `My Documents | Processing | DavaVisualization`. If you worked with a partnet, both you and your partner should submit the same code to Google Classroom.
 7. For full credit you should also submit a screenshot. In Windows, one way to take a screenshot is with the `Snipping Tool`.
 
 Samples of Student Work
