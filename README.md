@@ -2,17 +2,15 @@
 In this assignment you will create a picture that will help in understanding an array of data. You may find slides TBD of the TBD presentation helpful. Your program should use a variety of the [Processing graphics functions](https://processing.org/reference/). You will also define two functions:  
 `public void setup()`  
 `public void draw()`  
-Scroll down to see links to samples of other students submissions for this assignment. Have fun and be creative! Your data visualization  doesn't have to look like anyone else's.
+Scroll down to see screenshots of other students submissions for this assignment. Have fun and be creative! Your data visualization  doesn't have to look like anyone else's.
 
 Suggested steps to complete this assignment
 -------------------------------------------
 1. For this assignment you are welcome to collaborate with a partner. You can both work on the same visualization, or you can share a data set and each create a different visualization.   
 
-2. Fork and Clone down this repository, just like you did for the [Sample Assignment](https://github.com/APCSLowell/SampleAssignment)
-
 1. To start, you will need some data. You can use data you find on the Internet or create your own. You should then put your data into an array.
 
-2. Once you've collected data, you can start coding. Start Processing (or the Sublime program) and choose *File | Open Folder* then browse to and open the `DataVisualization` folder. Some ideas for visualizations include:
+2. Once you've collected data, you can start coding. Some ideas for visualizations include:
    - Changing opacity so frequently occuring values are brighter 
    - Changing size so frequently occuring values are larger
    - Creating a bar graph
@@ -24,11 +22,11 @@ Suggested steps to complete this assignment
    
 
 
-4. Modify `index.html` to personalize the title, headline and footer and save your changes by choosing *File | Save*
-5. Write your Java code in the `DataVisualization.pde` file. Run your program in Sublime by choosing *Tools | Build*
-6. `add`, `commit` and `push` your work to GitHub just like you did for the [Sample Assignment](https://github.com/APCSLowell/SampleAssignment)
-7. Publish your website by choosing *master branch* in the *GitHub Pages* section of *Settings*. This will create a URL "link" to your website
-8. Submit your URL link to google classroom
+4. Save your work each day by choosing *File | Save*. The first time you save your program, you'll be prompted to give it a name.
+Choose a meaningful name like `DataVisualization`.
+5. When you come back the next day, one way to find your program is to choose *File | Open Recent*.  The code is stored in a folder in the `Processing` folder in your `My Documents` folder. 
+6. When you are done, submit your code in Google classroom by browsind to your `DataVisualization.pde` file. The path should be `My Documents | Processing | DavaVisualization`.
+7. For full credit you should also submit a screenshot. In Windows, one way to take a screenshot is with the `Snipping Tool`.
 
 Samples of Student Work
 -----------------------
