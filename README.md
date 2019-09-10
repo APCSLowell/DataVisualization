@@ -30,6 +30,7 @@ Choose a meaningful name like `DataVisualization`.
 
 Samples of Student Work
 -----------------------
+[Marvin](https://malee31.github.io/DataVisualization/)   
 [Katherine](KatherineViz.PNG)      
 [David](DavidViz.PNG)   
 [JT](JesusViz.PNG)   
