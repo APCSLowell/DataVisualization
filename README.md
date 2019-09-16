@@ -30,8 +30,19 @@ Choose a meaningful name like `DataVisualization`.
 
 Samples of Student Work
 -----------------------
+[Cheryl](CherylTitanic.png)   
+[Kendrick](KendrickDataViz.PNG)   
+[Kelly](KellyDataViz.png)   
+[Ian](IanDataViz.gif)   
 [Theo](TheoDataVisSnip.png)   
 [Marvin](https://malee31.github.io/DataVisualization/)   
+[Aaron](AaronDataViz.PNG)   
+[Maanav](MaanavDataViz.PNG)   
+[Kenneth](KennethDataViz.png)   
+[Tommy](TommyDataViz.mov)   
+[Steve](SteveDataViz.png)   
+[Kenneth](KennethData.PNG)   
+[Michael](MichealDataViz.PNG)   
 [Katherine](KatherineViz.PNG)      
 [David](DavidViz.PNG)   
 [JT](JesusViz.PNG)   
@@ -41,11 +52,6 @@ Samples of Student Work
 [Andrew](AndrewViz.PNG)    
 [Maya](MayaViz.PNG)     
 [David](DavidVisual.PNG)   
-[Victor & Justin](VictorViz.PNG)  
-[Marc](MarcViz.PNG)   
-[Justin](JustinViz.PNG)   
-[Henry](HenryViz.PNG)   
-[Jared](JaredViz.PNG)   
 [Chao](ChaoViz.PNG)   
 
 *This assignment is based on Jer Thorp's [Getting Started with Processing and Data Visualizations](http://blog.blprnt.com/blog/blprnt/your-random-numbers-getting-started-with-processing-and-data-visualization)*
