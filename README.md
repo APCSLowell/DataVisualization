@@ -39,7 +39,6 @@ Samples of Student Work
 [Aaron](AaronDataViz.PNG)   
 [Maanav](MaanavDataViz.PNG)   
 [Kenneth](KennethDataViz.png)   
-[Tommy](TommyDataViz.mov)   
 [Steve](SteveDataViz.png)   
 [Kenneth](KennethData.PNG)   
 [Michael](MichealDataViz.PNG)   
