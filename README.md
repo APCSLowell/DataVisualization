@@ -32,7 +32,7 @@ Samples of Student Work
 -----------------------
 [Cheryl](CherylTitanic.png)   
 [Kendrick](KendrickDataViz.PNG)   
-[Francheska](Pi chart Francheska.PNG)   
+[Francheska](Francheska.PNG)   
 [Max](maklivansdatavis.png)   
 [Kelly](KellyDataViz.png)   
 [Ian](IanDataViz.gif)   
@@ -44,7 +44,7 @@ Samples of Student Work
 [Aaron](AaronDataViz.PNG)   
 [Marjkelly & Cyrille](MarjkellyCyrille.JPG)   
 [Kazu](KazudataPhoto.png)   
-[Qi](Qi data visualization.PNG)   
+[Qi](Qi.PNG)   
 [Maanav](MaanavDataViz.PNG)   
 [Marlon](MarlonDataVisualization.png)   
 [Kenneth](KennethDataViz.png)   
