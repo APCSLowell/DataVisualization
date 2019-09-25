@@ -30,7 +30,7 @@ Choose a meaningful name like `DataVisualization`.
 
 Optional
 ---------
-If you would like to add images to your visualization, you might want to read [the documentation for `PImage`](https://processing.org/reference/PImage.html), Processing's data type for images.
+If you would like to add images to your visualization, you might want to read the documentation for [`PImage`](https://processing.org/reference/PImage.html), Processing's data type for images.
 
 Samples of Student Work
 -----------------------
