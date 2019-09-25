@@ -28,6 +28,10 @@ Choose a meaningful name like `DataVisualization`.
 6. When you are done, submit your code in Google classroom by browsing to your `DataVisualization.pde` file. The path should be `My Documents | Processing | DavaVisualization`. If you worked with a partner, both you and your partner should submit the same code to Google Classroom.
 7. For full credit you should also submit a screenshot. In Windows, one way to take a screenshot is with the `Snipping Tool`.
 
+Optional
+---------
+If you would like to add images to your visualization, you might want to read [the documentation for `PImage`](https://processing.org/reference/PImage.html), Processing's data type for images.
+
 Samples of Student Work
 -----------------------
 [Cheryl](CherylTitanic.png)   
